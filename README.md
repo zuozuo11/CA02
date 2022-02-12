@@ -24,10 +24,16 @@ Install SciPy: pip install scipy
 0. Download data
 
 
+
+
 1. Create a vocabulary list
 
 
+
+
 2 Extract feature
+
+
 
 
 3 Training and predicting with sklearn naive bayes
