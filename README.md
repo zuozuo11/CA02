@@ -31,11 +31,15 @@ Install SciPy: pip install scipy
 
 
 
-2 Extract feature
+2. Extract feature
 
 
 
 
-3 Training and predicting with sklearn naive bayes
+3. Training and predicting with sklearn naive bayes
+
+
+
+4. Accuracy Score
 
 --------------------------------------------------
